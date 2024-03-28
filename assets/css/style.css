@@ -1,3 +1,8 @@
-section {
-    background-color: black !important;
+.txtColor1 {
+    color: white !important;
 }
+
+.logo {
+    width: 30px !important;
+}
+

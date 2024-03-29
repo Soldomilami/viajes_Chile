@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+
 .txtColor1 {
     color: white !important;
 }
@@ -9,3 +13,18 @@
 section div div div img {
     height: 100%;
 }
+
+footer {
+    background-color:rgb(13, 202, 240) ;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+footer div div i {
+    margin-left: 15px;
+}
+
+nav, header, section {
+    font-family: "Roboto" !important;
+}
+
